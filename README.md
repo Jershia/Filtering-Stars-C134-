@@ -72,7 +72,7 @@ print(final_dict)
    * *Venus - 35km/s*
    * *Earth - 30km/s*
    * *Mars - 24km/s*
-* *All these planets have suitable speed. Despite all the planets being clearing our filters, we are still only considering the possibility of colonizing Mars! The reason why other planets are not suitable for colonizing them:
+* *All these planets have suitable speed. Despite all the planets being clearing our filters, we are still only considering the possibility of colonizing Mars! The reason why other planets are not suitable for colonizing them:*
    * *Mercury - Mercury is not habitable since it does not have an atmosphere and its temperature varies from 100 Degree Celsius to 700 Degree Celsius.*
    * *Venus - Venus is an extreme planet. It’s very hot. It’s atmosphere traps the heat on the surface and it’s temperature is a whooping 700 Degree Celsius.It also rains sulphuric acid.*
    * *Earth - Seems like just the right planet to exist.*
