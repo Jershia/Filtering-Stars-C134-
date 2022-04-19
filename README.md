@@ -78,3 +78,7 @@ print(final_dict)
    * *Earth - Seems like just the right planet to exist.*
    * *Mars - Mars has some atmosphere and it also has some water on its surface. The temperatures are a bit extreme (20 Degree Celsius to -150 Degree Celsius) but it’s still manageable.*
 * *Apart from this, the planets could also be tidally locked to their sun. This means that one side always faces the sun and the other side always faces away from the sun.Here on Earth, we have our days warmer as compared to nights.When planets are tidally locked, one side of the planet might be extremely hot and the other side might be extremely cold.For reference, our Moon is tidally locked to our planet Earth. We can always see only one side of the moon and the other side is never visible to us.*
+
+## New Terms
+* *The shape of an array is the number of elements in each dimension.*
+* *pd.series gives index number to eanch row*
